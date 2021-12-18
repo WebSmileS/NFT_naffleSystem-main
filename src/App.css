@@ -1,0 +1,32 @@
+@import '~antd/dist/antd.css';
+.ant-card-body{
+    background-color: #01e0dd !important;
+    border-radius: 0px 0px 20px 20px;
+    padding: 10px;
+}
+.ant-card{
+    border-radius: 20px;
+}
+
+.main-app {
+    text-align: center;
+    margin: 100px;
+}
+
+.cta-button {
+    padding: 15px;
+    border: none;
+    border-radius: 12px;
+    min-width: 250px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.connect-wallet-button {
+    background: rgb(32, 129, 226);
+}
+
+.mint-nft-button {
+    background: orange;
+}
